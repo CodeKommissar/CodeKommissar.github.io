@@ -3,3 +3,7 @@ div {
   border: 1px solid aquamarine;
   padding: 30px;
 }
+
+.underlined {
+  text-decoration: underline;
+}
