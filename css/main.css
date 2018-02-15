@@ -1,7 +1,5 @@
-div {
-  background-color: azure;
-  border: 1px solid red;
-  padding: 30px;
+#picture {
+  border-radius: 5%;
 }
 
 .underlined {
